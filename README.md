@@ -1,5 +1,10 @@
-## Hi there 👋
+<div align="center">
 
+# Hi 👋, I'm Chanith
+
+<img src="./assets/retro-banner.gif" alt="Retro Contribution Banner" width="100%" />
+
+</div>
 <!--
 **chxnith/chxnith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
