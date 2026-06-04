@@ -1,6 +1,6 @@
 
 
-
+<h1 align="center">About Me </h1>
 
 <img src="./assets/retro-banner.gif" alt="Retro Contribution Banner" width="100%" />
 
