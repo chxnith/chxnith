@@ -6,7 +6,7 @@
 
 
 
-<h3 align="center">I'm a Computer Science student passionate about building software, solving problems, and continuously learning new technologies. I enjoy turning ideas into real-world applications and exploring areas such as software engineering, web development, artificial intelligence, and cloud computing. Currently, I'm expanding my skills through personal projects, coursework, and hands-on development experience. I enjoy working with modern technologies, contributing to open-source projects, and collaborating with other developers. My goal is to grow into a well-rounded software engineer who creates impactful and scalable solutions.</h3>
+<h3 align="center">I'm a Computer Science student passionate about building software, solving problems, and continuously learning new technologies. I enjoy turning ideas into real-world applications and exploring areas such as software engineering, web development, artificial intelligence, and cloud computing. <br>Currently, I'm expanding my skills through personal projects, coursework, and hands-on development experience. I enjoy working with modern technologies, contributing to open-source projects, and collaborating with other developers. <br>My goal is to grow into a well-rounded software engineer who creates impactful and scalable solutions.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
