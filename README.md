@@ -1,5 +1,5 @@
 
-
+<img src="./assets/footer.jpg" alt="Footer Image" width="100%" />
 <h1 align="center">About Me </h1>
 
 
@@ -15,4 +15,4 @@
 <a href="https://instagram.com/chxni_th" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chxni_th" height="30" width="40" /></a>
 </p>
 
-<img src="./assets/footer.jpg" alt="Footer Image" width="100%" />
+
