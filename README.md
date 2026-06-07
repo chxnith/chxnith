@@ -1,6 +1,6 @@
 
 <img src="./assets/footer.jpg" alt="Footer Image" width="100%" />
-
+<br>
 <h1 align="center">About Me </h1>
 
 
