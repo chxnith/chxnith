@@ -1,5 +1,5 @@
 
-<img src="./assets/footer.jpg" alt="Footer Image" width="100%" />
+
 
 <h1 align="center">About Me </h1>
 
