@@ -1,4 +1,4 @@
-
+<h1> chanith </h1>h1>
 <h3 align="center">I'm a Computer Science student passionate about building software, solving problems, and continuously learning new technologies. I enjoy turning ideas into real-world applications and exploring areas such as software engineering, web development, artificial intelligence, and cloud computing. <br><br>Currently, I'm expanding my skills through personal projects, coursework, and hands-on development experience. I enjoy working with modern technologies, contributing to open-source projects, and collaborating with other developers. <br><br>My goal is to grow into a well-rounded software engineer who creates impactful and scalable solutions.</h3>
 
 <img src="./assets/retro-banner.gif" alt="Retro Contribution Banner" width="100%" />
