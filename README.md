@@ -50,50 +50,41 @@
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <table>
 <tr>
 
-<td align="center" width="220">
-
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40"/>
-
-### LinkedIn
-
-<a href="https://linkedin.com/in/chanith-devnaka-b96ba6352">linkedin.com/in/</a><br>
-<b>chanith-devnaka-b96ba6352</b>
-
+<td align="center" width="200">
+<a href="https://linkedin.com/in/chanith-devnaka-b96ba6352" target="_blank">
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" alt="LinkedIn"/><br><br>
+<b>LinkedIn</b><br>
+chanith-devnaka-b96ba6352
+</a>
 </td>
 
-<td align="center" width="220">
-
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/>
-
-### Instagram
-
-<a href="https://instagram.com/chxni_th">@chxni_th</a>
-
+<td align="center" width="200">
+<a href="https://instagram.com/chxni_th" target="_blank">
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" alt="Instagram"/><br><br>
+<b>Instagram</b><br>
+@chxni_th
+</a>
 </td>
 
-<td align="center" width="220">
-
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/>
-
-### Gmail
-
-<a href="mailto:chanith321@gmail.com">chanith321@gmail.com</a>
-
+<td align="center" width="200">
+<a href="mailto:chanith321@gmail.com">
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" alt="Gmail"/><br><br>
+<b>Gmail</b><br>
+chanith321@gmail.com
+</a>
 </td>
 
-<td align="center" width="220">
-
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="40"/>
-
-### GitHub
-
-<a href="https://github.com/chxnith">github.com/chxnith</a>
-
+<td align="center" width="200">
+<a href="https://github.com/chxnith">
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="50" alt="GitHub"/><br><br>
+<b>GitHub</b><br>
+github.com/chxnith
+</a>
 </td>
 
 </tr>
