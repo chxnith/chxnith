@@ -56,35 +56,39 @@
 <tr>
 
 <td align="center" width="220">
-<a href="https://linkedin.com/in/chanith-devnaka-b96ba6352" style="text-decoration:none;">
-<img src="./assets/linkedin.png" width="38" alt="LinkedIn"><br><br>
+<a href="https://www.linkedin.com/in/chanith-samarasinghe-b96ba6352/">
+<img src="./assets/linkedin.png" width="38" alt="LinkedIn">
+</a>
+<br><br>
 <font color="white"><b>LinkedIn</b></font><br>
 <font color="white">@chanith-devnaka</font>
-</a>
 </td>
 
 <td align="center" width="220">
-<a href="https://instagram.com/chxni_th" style="text-decoration:none;">
-<img src="./assets/instagram.png" width="38" alt="Instagram"><br><br>
+<a href="https://instagram.com/chxni_th">
+<img src="./assets/instagram.png" width="38" alt="Instagram">
+</a>
+<br><br>
 <font color="white"><b>Instagram</b></font><br>
 <font color="white">@chxni_th</font>
-</a>
 </td>
 
 <td align="center" width="220">
-<a href="mailto:chanith321@gmail.com" style="text-decoration:none;">
-<img src="./assets/gmail.png" width="38" alt="Gmail"><br><br>
+<a href="mailto:chanith321@gmail.com">
+<img src="./assets/gmail.png" width="38" alt="Gmail">
+</a>
+<br><br>
 <font color="white"><b>Gmail</b></font><br>
 <font color="white">chanith321@gmail.com</font>
-</a>
 </td>
 
 <td align="center" width="220">
-<a href="https://github.com/chxnith" style="text-decoration:none;">
-<img src="./assets/github.png" width="38" alt="GitHub"><br><br>
+<a href="https://github.com/chxnith">
+<img src="./assets/github.png" width="38" alt="GitHub">
+</a>
+<br><br>
 <font color="white"><b>GitHub</b></font><br>
 <font color="white">github.com/chxnith</font>
-</a>
 </td>
 
 </tr>
