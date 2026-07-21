@@ -1,43 +1,6 @@
-## 💻 Tech Stack
-
-### 🎨 Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,react" />
-</p>
-
----
-
-### ⚙️ Backend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java" />
-</p>
-
----
-
-### 🗄️ Databases
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
-</p>
-
----
-
-### 🛠️ Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,postman,figma" />
-</p>
-
----
-
-### 🖥️ IDEs & Editors
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,idea" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netbeans/netbeans-original.svg" height="48" alt="NetBeans"/>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 <img src="./assets/retro-banner.gif" alt="Retro Contribution Banner" width="100%" />
 
