@@ -61,7 +61,7 @@
 </a>
 <br><br>
 <font color="white"><b>LinkedIn</b></font><br>
-<font color="white">@chanith-devnaka</font>
+<font color="white">@chanith-samarasinghe</font>
 </td>
 
 <td align="center" width="220">
@@ -88,7 +88,7 @@
 </a>
 <br><br>
 <font color="white"><b>GitHub</b></font><br>
-<font color="white">github.com/chxnith</font>
+<font color="white">chxnith</font>
 </td>
 
 </tr>
