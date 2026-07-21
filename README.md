@@ -55,33 +55,33 @@
 <table>
 <tr>
 
-<td align="center" width="200">
-<a href="https://linkedin.com/in/chanith-devnaka-b96ba6352" target="_blank">
-<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="50" alt="LinkedIn"/><br><br>
+<td align="center" width="180">
+<a href="https://linkedin.com/in/chanith-devnaka-b96ba6352">
+<img src="https://cdn.simpleicons.org/linkedin" width="35"/><br><br>
 <b>LinkedIn</b><br>
 chanith-devnaka-b96ba6352
 </a>
 </td>
 
-<td align="center" width="200">
-<a href="https://instagram.com/chxni_th" target="_blank">
-<img src="https://cdn.simpleicons.org/instagram/E4405F" width="50" alt="Instagram"/><br><br>
+<td align="center" width="180">
+<a href="https://instagram.com/chxni_th">
+<img src="https://cdn.simpleicons.org/instagram" width="35"/><br><br>
 <b>Instagram</b><br>
 @chxni_th
 </a>
 </td>
 
-<td align="center" width="200">
+<td align="center" width="180">
 <a href="mailto:chanith321@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail/EA4335" width="50" alt="Gmail"/><br><br>
+<img src="https://cdn.simpleicons.org/gmail" width="35"/><br><br>
 <b>Gmail</b><br>
 chanith321@gmail.com
 </a>
 </td>
 
-<td align="center" width="200">
+<td align="center" width="180">
 <a href="https://github.com/chxnith">
-<img src="https://cdn.simpleicons.org/github/FFFFFF" width="50" alt="GitHub"/><br><br>
+<img src="https://cdn.simpleicons.org/github/white" width="35"/><br><br>
 <b>GitHub</b><br>
 github.com/chxnith
 </a>
