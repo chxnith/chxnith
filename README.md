@@ -52,12 +52,12 @@
 
 ## 🌐 Connect With Me
 
-<table>
+<table align="center">
 <tr>
 
 <td align="center" width="180">
 <a href="https://linkedin.com/in/chanith-devnaka-b96ba6352">
-<img src="https://cdn.simpleicons.org/linkedin" width="35"/><br><br>
+<img src="./assets/linkedin.png" width="38" alt="LinkedIn"/><br><br>
 <b>LinkedIn</b><br>
 chanith-devnaka-b96ba6352
 </a>
@@ -65,7 +65,7 @@ chanith-devnaka-b96ba6352
 
 <td align="center" width="180">
 <a href="https://instagram.com/chxni_th">
-<img src="https://cdn.simpleicons.org/instagram" width="35"/><br><br>
+<img src="./assets/instagram.png" width="38" alt="Instagram"/><br><br>
 <b>Instagram</b><br>
 @chxni_th
 </a>
@@ -73,7 +73,7 @@ chanith-devnaka-b96ba6352
 
 <td align="center" width="180">
 <a href="mailto:chanith321@gmail.com">
-<img src="https://cdn.simpleicons.org/gmail" width="35"/><br><br>
+<img src="./assets/gmail.png" width="38" alt="Gmail"/><br><br>
 <b>Gmail</b><br>
 chanith321@gmail.com
 </a>
@@ -81,7 +81,7 @@ chanith321@gmail.com
 
 <td align="center" width="180">
 <a href="https://github.com/chxnith">
-<img src="https://cdn.simpleicons.org/github/white" width="35"/><br><br>
+<img src="./assets/github.png" width="38" alt="GitHub"/><br><br>
 <b>GitHub</b><br>
 github.com/chxnith
 </a>
