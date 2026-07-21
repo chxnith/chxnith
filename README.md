@@ -50,9 +50,51 @@
 
 ---
 
-# 🌐 Connect With Me
+### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chxnith)
+<table>
+<tr>
+
+<td align="center" width="220">
+
+<img src="https://cdn.simpleicons.org/linkedin/0A66C2" width="40"/>
+
+### LinkedIn
+
+<a href="https://linkedin.com/in/chanith-devnaka-b96ba6352">linkedin.com/in/</a><br>
+<b>chanith-devnaka-b96ba6352</b>
+
+</td>
+
+<td align="center" width="220">
+
+<img src="https://cdn.simpleicons.org/instagram/E4405F" width="40"/>
+
+### Instagram
+
+<a href="https://instagram.com/chxni_th">@chxni_th</a>
+
+</td>
+
+<td align="center" width="220">
+
+<img src="https://cdn.simpleicons.org/gmail/EA4335" width="40"/>
+
+### Gmail
+
+<a href="mailto:chanith321@gmail.com">chanith321@gmail.com</a>
+
+</td>
+
+<td align="center" width="220">
+
+<img src="https://cdn.simpleicons.org/github/FFFFFF" width="40"/>
+
+### GitHub
+
+<a href="https://github.com/chxnith">github.com/chxnith</a>
+
+</td>
+
+</tr>
+</table>
