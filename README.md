@@ -55,35 +55,35 @@
 <table align="center">
 <tr>
 
-<td align="center" width="180">
-<a href="https://linkedin.com/in/chanith-devnaka-b96ba6352">
-<img src="./assets/linkedin.png" width="38" alt="LinkedIn"/><br><br>
-<b>LinkedIn</b><br>
-chanith-devnaka-b96ba6352
+<td align="center" width="220">
+<a href="https://linkedin.com/in/chanith-devnaka-b96ba6352" style="text-decoration:none;">
+<img src="./assets/linkedin.png" width="38" alt="LinkedIn"><br><br>
+<font color="white"><b>LinkedIn</b></font><br>
+<font color="white">@chanith-devnaka</font>
 </a>
 </td>
 
-<td align="center" width="180">
-<a href="https://instagram.com/chxni_th">
-<img src="./assets/instagram.png" width="38" alt="Instagram"/><br><br>
-<b>Instagram</b><br>
-@chxni_th
+<td align="center" width="220">
+<a href="https://instagram.com/chxni_th" style="text-decoration:none;">
+<img src="./assets/instagram.png" width="38" alt="Instagram"><br><br>
+<font color="white"><b>Instagram</b></font><br>
+<font color="white">@chxni_th</font>
 </a>
 </td>
 
-<td align="center" width="180">
-<a href="mailto:chanith321@gmail.com">
-<img src="./assets/gmail.png" width="38" alt="Gmail"/><br><br>
-<b>Gmail</b><br>
-chanith321@gmail.com
+<td align="center" width="220">
+<a href="mailto:chanith321@gmail.com" style="text-decoration:none;">
+<img src="./assets/gmail.png" width="38" alt="Gmail"><br><br>
+<font color="white"><b>Gmail</b></font><br>
+<font color="white">chanith321@gmail.com</font>
 </a>
 </td>
 
-<td align="center" width="180">
-<a href="https://github.com/chxnith">
-<img src="./assets/github.png" width="38" alt="GitHub"/><br><br>
-<b>GitHub</b><br>
-github.com/chxnith
+<td align="center" width="220">
+<a href="https://github.com/chxnith" style="text-decoration:none;">
+<img src="./assets/github.png" width="38" alt="GitHub"><br><br>
+<font color="white"><b>GitHub</b></font><br>
+<font color="white">github.com/chxnith</font>
 </a>
 </td>
 
